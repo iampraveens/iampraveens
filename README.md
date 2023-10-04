@@ -19,13 +19,14 @@
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1G5bxMltXhZspYxb5-2xbFClz7ep9Ah2Q/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/iampraveens17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iampraveens17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iampraveens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iampraveens" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="tensorflow" width="40" height="40"/> <img src="https://www.mlq.ai/content/images/size/w350/format/webp/2023/06/Screenshot-2023-06-15-at-8.15.36-PM-1.png" alt="langchain" width="40" height="60"/> </a> </p>
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="tensorflow" width="40" height="40"/> <img src="https://github.com/iampraveens/iampraveens/assets/125688218/43d8cb90-3e0e-4588-be53-099067c3ed27" alt="langchain" width="40" height="60"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampraveens&show_icons=true&locale=en&layout=compact" alt="iampraveens" /></p>
 
