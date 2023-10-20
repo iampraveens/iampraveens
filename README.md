@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **praveensivaprakasham@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1G5bxMltXhZspYxb5-2xbFClz7ep9Ah2Q/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Wz_M6pr_FdYuzc17eZ8g4p99EVue0XmV/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 
