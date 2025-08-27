@@ -56,16 +56,24 @@
 <div align="center">
   <h2>📊 My Stats 📊</h2>
   <br>
-  <img 
-    alt="My Stats" 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=iampraveens&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true" 
-  />
-  <img 
-    alt="My Streak" 
-    height="180em"
-    src="https://streak-stats.demolab.com?user=iampraveens&theme=black-ice&hide_border=true&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" 
-  />
+  <table>
+    <tr>
+      <td>
+        <img 
+          alt="My Stats" 
+          height="180em"
+          src="https://github-readme-stats.vercel.app/api?username=iampraveens&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true" 
+        />
+      </td>
+      <td>
+        <img 
+          alt="My Streak" 
+          height="180em"
+          src="https://streak-stats.demolab.com?user=iampraveens&theme=black-ice&hide_border=true&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" 
+        />
+      </td>
+    </tr>
+  </table>
   <br>
   <img 
     alt="My Top Languages" 
