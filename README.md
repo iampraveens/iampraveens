@@ -6,18 +6,33 @@
   </a>
 </h1>
 
-<p align="left"> <a href="https://twitter.com/iampraveens17" target="blank"><img src="https://img.shields.io/twitter/follow/iampraveens17?logo=twitter&style=for-the-badge" alt="iampraveens17" /></a> </p>
+<h3 align="center"> A passionate AI Engineer from India</h3>
 
+<br/>
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+<div align="center">
+  
+ 👯 I’m looking to collaborate on **ML Projects**
 
-- 🤝 I’m looking for people to **Connect**
+ 💬 Ask me about **ML/DL/NLP/GenAI**
 
-- 💬 Ask me about **AI/DL/ML**
+⚡Believes **GPUs** were invented just so we could train **deep learning models** faster.
 
-- 📫 How to reach me **praveensivaprakasham@gmail.com**
+</div>
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Wz_M6pr_FdYuzc17eZ8g4p99EVue0XmV/view?usp=sharing)**
+<div align="center">
+  
+  <a href="mailto:praveensivaprakasham@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/iampraveens" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.datascienceportfol.io/iampraveens" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+  </a>
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 
