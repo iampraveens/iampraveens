@@ -48,7 +48,7 @@
   <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" width="48" height="48"/>
   <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" width="48" height="48"/>
   <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/>
-  <img src="https://cdn.brandfetch.io/idS8GMP5c8/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/eda9a612-ded1-4dad-86d0-f833553b7d64" width="48" height="48"/>
 </div>
 
 <hr/>
