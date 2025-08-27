@@ -54,14 +54,32 @@
 <hr/>
 
 <div align="center">
-  <h2>🧑‍💻 My Contribution 🧑‍💻📊</h2>
+  <h2>📊 My Stats 📊</h2>
   <br>
-  <img alt="My Contributions" src="https://github-contributor-stats.vercel.app/api?username=iampraveens&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-  </br>
+  <img 
+    alt="My Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=iampraveens&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true" 
+  />
+  <img 
+    alt="My Streak" 
+    src="https://streak-stats.demolab.com?user=iampraveens&theme=black-ice&hide_border=true&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" 
+  />
+  <br>
+  <img 
+    alt="My Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampraveens&layout=compact&bg_color=000000&title_color=00BFFF&text_color=00BFFF&hide_border=true" 
+  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampraveens&show_icons=true&locale=en&layout=compact" alt="iampraveens" /></p>
+</br></br>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampraveens&show_icons=true&locale=en" alt="iampraveens" /></p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=✨+Let's+Connect+✨;Thanks+for+stopping+by+👋;Open+to+Collaboration+🤝;Catch+me+on+LinkedIn+💼" />
+  </a>
+</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampraveens&" alt="iampraveens" /></p>
+</br>
+
+
