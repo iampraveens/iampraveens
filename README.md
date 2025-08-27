@@ -44,17 +44,21 @@
   <img src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://cdn.brandfetch.io/idbyoKq4tZ/w/396/h/396/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/>
+  <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" width="48" height="48"/>
   <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" width="48" height="48"/>
   <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/>
-  <img src="https://cdn.brandfetch.io/idbyoKq4tZ/w/396/h/396/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/>
   <img src="https://cdn.brandfetch.io/idS8GMP5c8/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48"/>
-  
-  
 </div>
 
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="tensorflow" width="40" height="40"/> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/125688218/272641306-539a766a-bf91-448d-bd0b-3fcefb54f518.png" alt="langchain" width="50" height="40"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="haggingface" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCaiBEFh6qg3JAtozBJTeq7lzoYMVBbp_lHVLrM0eiw9Ylpwo8zzenXTVUN1Dow-yyPWM&usqp=CAU" alt="haggingface" width="55" height="40"/> <img src="https://www.saashub.com/images/app/service_logos/196/zo423djujwv4/large.png?1638262798" alt="haggingface" width="50" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="haggingface" width="60" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="haggingface" width="60" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="haggingface" width="65" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="haggingface" width="75" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="haggingface" width="75" height="60"/> </a> </p>
+<div align="center">
+  <h2>🧑‍💻 My Contribution 🧑‍💻📊</h2>
+  <br>
+  <img alt="My Contributions" src="https://github-contributor-stats.vercel.app/api?username=iampraveens&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  </br>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampraveens&show_icons=true&locale=en&layout=compact" alt="iampraveens" /></p>
 
