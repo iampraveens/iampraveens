@@ -67,10 +67,10 @@
       </td>
       <td>
         <img 
-          alt="My Streak" 
-          height="180em"
-          src="https://streak-stats.demolab.com?user=iampraveens&theme=black-ice&hide_border=true&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" 
-        />
+  alt="My GitHub Streak" 
+  height="180" 
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=iampraveens&theme=black-ice&hide_border=true&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" 
+/>
       </td>
     </tr>
   </table>
